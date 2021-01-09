@@ -1,0 +1,18 @@
+  
+  
+  /* MY CSS FILE FOR RESPONSIVE PORTFOLIO*/
+    body {
+        background-color: rgb(202, 237, 248);
+      }
+
+    .footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: rgb(40, 57, 59);
+     color: white;
+     text-align: center;
+  }
+
+ 
